@@ -1,0 +1,31 @@
+customer_id,name,gender,age,district,join_date
+C001,Rakib Hasan,Male,19,Sylhet,2023-11-22
+C002,Sadik Rahman,Male,32,Rajshahi,2024-09-26
+C003,Sisir Ahamed,Male,52,Chattogram,2024-10-08
+C004,Sabrina Yeasmin,Female,20,Dhaka,2024-07-21
+C005,Abdul Bari,Male,31,Khulna,2024-01-22
+C006,Sahin Ahamed,Male,53,Khulna,2024-01-15
+C007,Rosy Akter,Female,32,Mymensingh,2024-01-09
+C008,Nila Rahman,Female,18,Rajshahi,2025-06-11
+C009,Ritu Yeasmin,Female,39,Sylhet,2023-10-07
+C010,Mahin Islam,Male,31,Barishal,2024-06-26
+C011,Samiul Alam,Male,23,Rangpur,2025-05-08
+C012,Sagor Ahamed,Male,40,Barishal,2024-04-13
+C013,Mehrun Nesa,Female,20,Mymensingh,2025-04-25
+C014,Shihab Ahamed,Male,42,Chattogram,2024-12-02
+C015,Santa,Female,58,Barishal,2023-10-15
+C016,Hasibul,Male,22,Dhaka,2025-01-26
+C017,Moeen Khan,Male,36,Chattogram,2024-08-10
+C018,Asik Ahamed,Male,24,Rangpur,2025-03-26
+C019,Maria Jahan,Female,47,Barishal,2024-03-10
+C020,Sojib Ahamed,Male,41,Barishal,2024-05-14
+C021,Mizanur,Male,60,Sylhet,2025-07-22
+C022,Tamim Hasan,Male,56,Rajshahi,2025-05-04
+C023,Hridoy Khan,Male,28,Mymensingh,2023-11-16
+C024,Nusrat Jahan,Female,35,Khulna,2025-08-02
+C025,Rifa Yeasmin,Female,21,Khulna,2025-03-24
+C026,Sakib,Male,38,Rangpur,2025-09-05
+C027,Maisha,Female,22,Khulna,2024-06-02
+C028,Morgina Begum,Female,31,Mymensingh,2024-10-18
+C029,Maya Akter,Female,59,Mymensingh,2024-11-21
+C030,Piyash Ahamed,Male,34,Rajshahi,2024-05-18

@@ -1,0 +1,31 @@
+product_id,product_name,category,price
+P001,T-shirt,Apparel,499
+P002,Jeans,Apparel,1299
+P003,Sneakers,Footwear,2499
+P004,Backpack,Accessories,899
+P005,Smartphone,Electronics,14999
+P006,Bluetooth Headset,Electronics,1499
+P007,Watch,Accessories,1999
+P008,Power Bank,Electronics,999
+P009,Sunglasses,Accessories,699
+P010,Formal Shoes,Footwear,2999
+P011,Laptop,Electronics,35000
+P012,Hoodie,Apparel,900
+P013,Wireless Mouse,Electronics,1500
+P014,Water Bottle,Accessories,550
+P015,Running Shoes,Footwear,2699
+P016,Charger Fan,Electronics,4500
+P017,Sound Box,Electronics,3500
+P018,Router,Electronics,800
+P019,TV,Electronics,10000
+P020,Rice Cooker,Home Appliance,4000
+P021,Juicer,Home Appliance,1200
+P022,Mixer,Home Appliance,5600
+P023,LED Light,Electronics,700
+P024,Monitor,Electronics,4000
+P025,Fridge,Electronics,60000
+P026,Jacket,Apparel,6000
+P027,Panjabi,Apparel,20000
+P028,Saree,Apparel,3000
+P029,Table Fan,Electronics,4000
+P030,Air Conditioner,Electronics,8000
