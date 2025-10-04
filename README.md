@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bangladesh E-Commerce Insights Dashboard
 
 ## Project Overview
@@ -46,3 +47,6 @@ If you want me to share the datasets or SQL scripts, feel free to ask!
 ## License
 MIT License  
 GitHub: https://github.com/mannan613
+=======
+# bangladesh-ecommerce-insights-dashboard
+>>>>>>> af43a663cda29bcd253eca24f9f8f83bb1f8ead5
